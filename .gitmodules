@@ -1,0 +1,9 @@
+[submodule "aoc2025"]
+	path = aoc2025
+	url = https://github.com/stegr81/Advent-of-Code-25.git
+[submodule "aoc2024"]
+	path = aoc2024
+	url = https://github.com/stegr81/2024-Advent-of-Code.git
+[submodule "aoc2022"]
+	path = aoc2022
+	url = https://github.com/stegr81/2022-Advent-of-Code.git
